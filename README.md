@@ -39,7 +39,7 @@ The CTX-Gateway module requires a Cortex PowerShell Agent, which should be insta
 
 ### Files
 The CTX-Gateway module requires the following files:
-* [CTX-Gateway Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Gateway/releases/download/v2.2/CTX-Gateway.studiopkg)
+* [CTX-Gateway Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Gateway/releases/download/V1.0/CTX-Gateway.studiopkg)
 
 
 ### Other
